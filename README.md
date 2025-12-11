@@ -18,11 +18,6 @@ Features
 - Percentage calculation (%)
 - Responsive UI optimized for iPhone
 
-Screenshots
-(Add screenshots to the repository under a /screenshots directory and update these placeholders.)
-- /screenshots/phone-1.png
-- /screenshots/phone-2.png
-
 Requirements
 - macOS with Xcode installed
 - Xcode 12+ recommended
@@ -45,7 +40,6 @@ Usage
 
 Project structure
 - All source files are written in Swift.
-- Update this section to describe the UI framework used (UIKit with Storyboards/XIBs or SwiftUI) and the high-level architecture (MVC, MVVM, etc.).
 
 Testing
 - Manual testing on device or simulator.
@@ -59,9 +53,6 @@ Contributions are welcome!
 4. Push to your branch (git push origin feature/your-feature)
 5. Open a Pull Request describing your changes
 
-License
-- Add a license of your choice (e.g., MIT, Apache-2.0). If you'd like, I can add an MIT license file for you.
-
 Acknowledgements
 - Built as a learning/demo project.
 
@@ -69,5 +60,3 @@ Contact
 - Repository: https://github.com/SohamB4746Y/Calculator_Ios
 - Author: SohamB4746Y
 
-Notes
-- If you want, I can update this README with screenshots, indicate the exact UI framework (UIKit vs SwiftUI), set the correct minimum iOS/Xcode versions, or add and commit a license file. Please tell me how you'd like it customized.
